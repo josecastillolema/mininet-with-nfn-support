@@ -1,6 +1,7 @@
 # mininet-with-nfn-support
 
 [Mininet](http://mininet.org/) is a network emulator, which creates a network of virtual hosts, switches, controllers, and links. Mininet hosts run standard Linux network software, and its switches support [OpenFlow](http://archive.openflow.org/wp/learnmore/) for highly flexible custom routing and Software-Defined Networking experimentation. 
+
 This repository contains various scripts with [CCNlite](https://github.com/cn-uofbasel/ccn-lite) and CCNlite with [Named Function Networking (NFN)](http://named-function.net/) enabled support for Mininet, with the following topology:
 
              3              2     1
