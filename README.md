@@ -14,4 +14,4 @@ This repository contains various scripts with [CCNlite](https://github.com/cn-uo
                             |1    4|  \ 2
                            h3     h6   h8`
 
-The scripts are in charge of setting up the emulation environment by initializing and configuring the *faces* (the name [Content-Centric Networking -- CCN](http://www.ccnx.org) gives to interfaces) for all the network elements involved in the named functions execution.
+The scripts are in charge of setting up the emulation environment by initializing and configuring the *faces* (the name [Content-Centric Networking - CCN](http://www.ccnx.org) gives to interfaces) for all the network elements involved in the named functions execution.
