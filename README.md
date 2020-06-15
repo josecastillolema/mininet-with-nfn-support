@@ -1,5 +1,4 @@
 ![GitHub](https://img.shields.io/github/license/josecastillolema/mininet-with-nfn-support)
-![GitHub language count](https://img.shields.io/github/languages/count/josecastillolema/mininet-with-nfn-support)
 ![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/mininet-with-nfn-support)
 [![Requirements Status](https://requires.io/github/josecastillolema/mininet-with-nfn-support/requirements.svg?branch=master)](https://requires.io/github/josecastillolema/mininet-with-nfn-support/requirements/?branch=master)
 
