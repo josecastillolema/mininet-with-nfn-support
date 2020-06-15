@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/josecastillolema/josecastillolema.github.io)
+![GitHub language count](https://img.shields.io/github/languages/count/josecastillolema/josecastillolema.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/josecastillolema.github.io)
+
 # mininet-with-nfn-support
 
 [Mininet](http://mininet.org/) is a network emulator, which creates a network of virtual hosts, switches, controllers, and links. Mininet hosts run standard Linux network software, and its switches support [OpenFlow](http://archive.openflow.org/wp/learnmore/) for highly flexible custom routing and Software-Defined Networking experimentation. 
